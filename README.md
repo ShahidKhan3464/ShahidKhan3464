@@ -12,7 +12,9 @@ In my role at ZAPTA Tech, I've been the maestro behind the scenes, orchestrating
 
 🌟 Star Performer Award | ZAPTA Tech | 2023
  Honored multiple times as the Star Performer award for outstanding contributions to frontend development and dedication to delivering high-impact projects.
+ 
 🚀 Spearheaded the transformation of a legacy UI into a sleek, responsive masterpiece, resulting in a 25% boost in user satisfaction.
+
 🌈 Conceived and implemented a dynamic data visualization module, earning accolades for innovation and user engagement.
 
 📜 Education:
