@@ -20,4 +20,5 @@ In my role at ZAPTA Tech, I've been the maestro behind the scenes, orchestrating
 📜 Education:
 
 🎓 Bachelor of Science in Software Engineering | University of Islamia | Class of 2022
+
 Let's embark on a new quest together! I'm ready to contribute my magic to projects that push the boundaries of what's possible in the realm of React development. Open to discussions, collaborations, and maybe a bit of code wizardry! ✨🚀
