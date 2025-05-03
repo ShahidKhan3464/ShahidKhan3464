@@ -8,15 +8,12 @@ Hi there! I’m a passionate and results-driven Frontend Developer specializing 
 
 🏆 Key Achievements:
 Star Performer Award (2023): Recognized multiple times at ZAPTA Tech for delivering high-impact frontend solutions and driving innovation.
-
 Dynamic Data Visualization: Designed and implemented an interactive data visualization module, praised for its innovation and ability to enhance user engagement.
 
 💼 Professional Experience:
 Frontend Developer | ZAPTA Tech
 Spearheaded the development of scalable and maintainable React applications, ensuring seamless user experiences across devices.
-
 Collaborated with cross-functional teams to deliver projects on time, aligning with business goals and user needs.
-
 Optimized web performance, achieving faster load times and improved SEO rankings.
 
 📜 Education:
@@ -25,11 +22,8 @@ University of Islamia | Graduated in 2022
 
 🌟 Why Work With Me?
 Problem Solver: I excel at breaking down complex challenges into elegant, efficient solutions.
-
 User-First Mindset: I prioritize creating intuitive and engaging interfaces that delight users.
-
 Continuous Learner: Always staying ahead of the curve with the latest frontend technologies and best practices.
-
 Team Player: Collaborative and communicative, with a knack for aligning technical solutions with business objectives.
 
 🚀 Let’s Build Something Amazing!
