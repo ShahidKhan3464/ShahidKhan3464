@@ -7,6 +7,7 @@
 Hi there! I’m a passionate and results-driven Frontend Developer specializing in React.js and Next.js, with over 3 years of experience building high-performance, responsive, and visually stunning web applications. I thrive on transforming complex problems into seamless digital experiences that users love. 💻✨
 
 🏆 Key Achievements:
+
 Star Performer Award (2023): Recognized multiple times at ZAPTA Tech for delivering high-impact frontend solutions and driving innovation.
 Dynamic Data Visualization: Designed and implemented an interactive data visualization module, praised for its innovation and ability to enhance user engagement.
 
